@@ -10,6 +10,8 @@ authors = [
     {name = "Curtis McCully"},
     {name = "Timothy Brandt"},
 ]
+readme = "README.rst"
+license = {file = "LICENSE"}
 requires-python = ">=3.11"
 dependencies = [
     "astropy>=7.0",
